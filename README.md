@@ -1,2 +1,2 @@
-# Hi-World
+# Research Project with UCSB
 SageMath
